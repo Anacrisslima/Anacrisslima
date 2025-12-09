@@ -1,19 +1,69 @@
-### Olá! Eu sou a Ana Cristina
+# 👋 Olá, eu sou Ana Cristina Gasparini!
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Java e Back-end
-- 📫 Contate-me no email: anna.criss0101@gmail.com
-- 😄 Pronouns: ela/dela
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analista+de+Dados;Desenvolvedora+Web;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo)
 
-<div>
-  <a href="https://neacons.ai/Annacrisslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anacrisslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api//top-langs/?username=Anacrisslima&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Ana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Ana-jsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+## 🚀 Sobre Mim
+
+Sou **Analista de Sistema e Desenvolvedora**, apaixonada por tecnologia, automação e criação de soluções inteligentes.  
+Amo transformar dados em decisões, ideias em sistemas reais e estudar novas tecnologias todos os dias.
+
+- 🌱 Atualmente aprendendo: **Next.js, TypeScript & Integrações via API**
+- 💬 Pergunte-me sobre: **Power BI, Python, IA aplicada a negócios, APIs, dashboards e desenvolvimento web**
+- 📫 Como me encontrar: **anna.criss0101@gmail.com**
+- ⚡ Curiosidade: **Tenho dois Spitz (Joey e Milo) e estou criando meu próprio sistema financeiro com IA — IntelliFlow Finance.**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Ferramentas & Plataformas
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0D47A1?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
   
-  ##
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anacrisslima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anacrisslima&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anacrisslima&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnaCristinaGasparini&color=blueviolet&style=flat-square&label=Visitas+ao+Perfil)
+  
+  ### "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+  
+</div>
