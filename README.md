@@ -2,19 +2,19 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analista+de+Dados;Desenvolvedora+Web;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo)
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analista+de+Sistemas;Desenvolvedora+Web;Apaixonada+por+Tecnologia;Sempre+Aprendendo+Algo+Novo)
+  
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Sistema e Desenvolvedora**, apaixonada por tecnologia, automação e criação de soluções inteligentes.  
-Amo transformar dados em decisões, ideias em sistemas reais e estudar novas tecnologias todos os dias.
+Sou **Analista de Sistemas e Desenvolvedora**, apaixonada por criar soluções inovadoras e aprender novas tecnologias.  
+Adoro transformar ideias em sistemas reais, automatizar processos e desenvolver ferramentas inteligentes utilizando dados.
 
-- 🌱 Atualmente aprendendo: **Next.js, TypeScript & Integrações via API**
-- 💬 Pergunte-me sobre: **Power BI, Python, IA aplicada a negócios, APIs, dashboards e desenvolvimento web**
+- 🌱 Atualmente aprendendo: **Next.js, TypeScript, APIs e Inteligência Artificial aplicada**
+- 💬 Pergunte-me sobre: **Power BI, Python, desenvolvimento web, automação de processos, dashboards, APIs e IA aplicada**
 - 📫 Como me encontrar: **anna.criss0101@gmail.com**
-- ⚡ Curiosidade: **Tenho dois Spitz (Joey e Milo) e estou criando meu próprio sistema financeiro com IA — IntelliFlow Finance.**
+- ⚡ Curiosidade: **Tenho dois Spitz (Joey e Mlo) e estou criando meu próprio sistema financeiro inteligente — IntelliFlow Finance.**
 
 ---
 
@@ -36,10 +36,9 @@ Amo transformar dados em decisões, ideias em sistemas reais e estudar novas tec
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### Ferramentas & Plataformas
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0D47A1?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
@@ -60,9 +59,41 @@ Amo transformar dados em decisões, ideias em sistemas reais e estudar novas tec
 
 ---
 
+## 🏆 Conquistas
+
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AnaCristinaGasparini&color=blueviolet&style=flat-square&label=Visitas+ao+Perfil)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Anacrisslima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anacrisslima&repo=intelliflow-finance&theme=tokyonight&hide_border=true)](https://github.com/Anacrisslima/intelliflow-finance)
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Anacrisslima&color=blueviolet&style=flat-square&label=Visitas+ao+Perfil)
   
   ### "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
   
