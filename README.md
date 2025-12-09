@@ -59,16 +59,6 @@ Adoro transformar ideias em sistemas reais, automatizar processos e desenvolver 
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Anacrisslima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
 <div align="center">
